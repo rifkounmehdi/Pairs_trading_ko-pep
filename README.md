@@ -1,6 +1,6 @@
-# Pairs Trading & Statistical Arbitrage (KO–PEP)
+# Pairs Trading & Statistical Arbitrage 
 
-This repository implements an end-to-end statistical arbitrage strategy on Coca-Cola (KO) and PepsiCo (PEP).
+This repository implements an end-to-end statistical arbitrage strategy.
 
 ## Objective
 Build a realistic pairs trading pipeline including:
